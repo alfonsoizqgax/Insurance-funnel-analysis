@@ -1,19 +1,39 @@
 # Insurance Funnel Analysis
-Simulated insurance lead generation funnel analysis inspired by TrySmartly’s business model. Built with Power BI to analyze conversion, user behavior, and revenue drivers.
 
-## Objective
-This project simulates a lead generation funnel similar to TrySmartly’s business model, where users are matched with insurance providers.
+## Overview
+This project simulates a lead generation funnel inspired by TrySmartly’s business model, where users are matched with insurance providers.
+
+The goal is to analyze user behavior across the funnel and identify opportunities to improve conversion rates and revenue.
+
+---
+
+## Business Problem
+Insurance marketplaces rely heavily on optimizing user conversion across multiple steps:
+- Traffic acquisition
+- Form completion
+- Provider matching
+- Final conversion
+
+Understanding where users drop off is critical to improving performance.
+
+---
 
 ## Dataset
-A synthetic dataset was created to represent user behavior across the funnel:
-- Traffic source
-- Device
-- Insurance type
-- Funnel progression (form, click, conversion)
+A synthetic dataset was created to simulate real-world user behavior due to data confidentiality constraints.
 
-## Tools
-- Power BI (dashboard)
-- CSV dataset
+It includes:
+- Traffic source (Google, Facebook, Organic)
+- Device type (Mobile, Desktop)
+- Insurance type (Auto, Health, Life)
+- Funnel progression metrics
+
+---
+
+## Tools Used
+- Power BI (Dashboard)
+- CSV (Data source)
+
+---
 
 ## Key Metrics
 - Conversion Rate
@@ -21,14 +41,27 @@ A synthetic dataset was created to represent user behavior across the funnel:
 - Click Rate
 - Revenue
 
+---
+
 ## Key Insights
-- Google has the highest conversion rate
-- Facebook generates traffic but lower conversions
+- Google traffic shows the highest conversion rate
+- Facebook drives volume but lower efficiency
 - Significant drop-off between form completion and click
 - Auto insurance generates the highest revenue
 
-## Business Impact
-This analysis can help optimize marketing channels, improve funnel performance, and focus on high-value insurance segments.
+---
+
+## Business Recommendations
+- Optimize Facebook campaigns for better conversion quality
+- Improve UX between form completion and click stage
+- Prioritize Auto insurance segment for revenue growth
+
+---
+
+## Dashboard Preview
+![Dashboard](images/smartly graphics.png)
+
+---
 
 ## Notes
-This is a simulated project created for demonstration purposes due to data confidentiality.
+This is a simulated project created for demonstration purposes and portfolio use.
