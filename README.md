@@ -59,7 +59,7 @@ It includes:
 ---
 
 ## Dashboard Preview
-![Dashboard](images/smartly graphics.png)
+![Dashboard](images/Smartly-graphics.png)
 
 ---
 
