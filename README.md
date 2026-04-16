@@ -1,7 +1,7 @@
 # Insurance Funnel Analysis
 
 ## Overview
-This project simulates a lead generation funnel inspired by TrySmartly’s business model, where users are matched with insurance providers.
+This project simulates a lead generation funnel inspired by Smartly’s business model, where users are matched with insurance providers.
 
 The goal is to analyze user behavior across the funnel and identify opportunities to improve conversion rates and revenue.
 
